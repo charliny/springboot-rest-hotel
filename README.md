@@ -1,4 +1,4 @@
-# API_SpringBoot_hotel
+# apirest_springboot_hotel
 
 Este é um aplicativo de reserva de hotel que está conectado a um banco de dados postgresql usando o docker
 
